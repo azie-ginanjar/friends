@@ -43,6 +43,3 @@ fabric.properties
 .glide/
 
 .idea
-.env
-Procfile
-app.json
