@@ -1,1 +1,1 @@
-“web:friends run myapp prod 9000”
+“web:go run server.go”
